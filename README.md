@@ -10,7 +10,7 @@
 
 # FINAL PRODUCT
 
-![image] file:///C:/Users/Hagen/OneDrive/Desktop/Challenges/Schedule-Me-1/develop/index.html
+![image] "C:\Users\Hagen\OneDrive\Pictures\Work Day Scheduler.html"
 
 # BUILT WITH
 
