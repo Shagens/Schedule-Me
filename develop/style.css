@@ -25,6 +25,10 @@ textarea {
       font-family:cursive;
   }
 
+.col-md-1 {
+    color: #008cff;
+}
+
 .lead {
       font-style: italic;
       color: #008cff;
